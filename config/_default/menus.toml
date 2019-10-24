@@ -29,8 +29,8 @@
   weight = 40
 
 [[main]]
-  name = "Local Resources"
-  url = "#local_resources"
+  name = "Resources"
+  url = "#resources"
   weight = 50
 
 [[main]]
