@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Re:produce Workshop - Open Data Materials and Code</title>
+    <title>Re:produce</title>
     <link>/authors/francis/</link>
       <atom:link href="/authors/francis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Re:produce Workshop - Open Data Materials and Code</description>
+    <description>Re:produce</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019`</copyright>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Re:produce Workshop - Open Data Materials and Code</title>
+      <title>Re:produce</title>
       <link>/authors/francis/</link>
     </image>
     

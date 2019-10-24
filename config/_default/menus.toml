@@ -4,19 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "About"
+  name = "Home"
   url = "#hero"
   weight = 10
 
 [[main]]
+  name = "About"
+  url = "#about_session"
+  weight = 15
+
+[[main]]
   name = "Presentations"
-  url = "#talk"
+  url = "#talks"
   weight = 20
 
 [[main]]
   name = "Activity"
-  url = "#actvity"
+  url = "#activity"
   weight = 30
+
+[[main]]
+  name = "Materials"
+  url = "#materials"
+  weight = 40
+
+[[main]]
+  name = "Local Resources"
+  url = "#local_resources"
+  weight = 50
 
 [[main]]
   name = "Contact"
