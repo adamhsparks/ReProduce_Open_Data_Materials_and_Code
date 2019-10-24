@@ -1,14 +1,11 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Local Resources"
+title = "Resources"
 subtitle = ""
 
 [design]
@@ -50,7 +47,21 @@ subtitle = ""
  css_class = ""
 +++
 
-Local resources at your university to help you with Open Data, Open Materials and Open Code
+Australia wide, local and university resources to help you with Open Data, Open Materials and Open Code.
 
-- [**University of Southern Queensland eResearch**](https://www.usq.edu.au/current-students/academic/higher-degree-by-research-students/conducting-research/eresearch)
+**Australia Wide Resources**
+
+- [**ANZORN** Australia and New Zealand Open Research Network](https://www.anzopenresearch.org)
+
+- [**BORN** Brisbane Open Research Network](https://born.netlify.com)
+
+- [**Sydney Open Research Network**](https://sydneyopenresearch.org)
+
+- [**MORN** Melbourne Open Research Network](https://morn.netlify.com)
+
+**University Resources**
+
+- [**QUT Visualisation and eResearch**](https://research.qut.edu.au/viser/)
+
+- [**USQ eResearch**](https://www.usq.edu.au/current-students/academic/higher-degree-by-research-students/conducting-research/eresearch)
 
