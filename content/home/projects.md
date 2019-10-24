@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
-title = "Group Project"
+title = "Session Activity"
 subtitle = "Create a research compendium"
 
 [content]
@@ -74,4 +74,6 @@ subtitle = "Create a research compendium"
  # CSS class.
  css_class = ""
 +++
+
+Using the materials you have already downloaded (or if you have not, please download them now), create a research compendium using [OSF](https://www.osf.org/)
 
