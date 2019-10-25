@@ -49,9 +49,11 @@ subtitle = ""
 
 Australia wide, local and university resources to help you with Open Data, Open Materials and Open Code.
 
-**Australia Wide Resources**
+**Australia and New Zealand Resources**
 
 - [**ANZORN** Australia and New Zealand Open Research Network](https://www.anzopenresearch.org)
+
+**Local Resources**
 
 - [**BORN** Brisbane Open Research Network](https://born.netlify.com)
 
