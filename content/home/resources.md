@@ -51,7 +51,9 @@ Australia wide, local and university resources to help you with Open Data, Open 
 
 **Australia and New Zealand Resources**
 
-- [**ANZORN** Australia and New Zealand Open Research Network](https://www.anzopenresearch.org)
+- [**ANZORN** Australia and New Zealand Open Research Network](https://www.anzopenresearch.org)[**
+
+- [**AOASG** Australasian Open Access Strategy Group](https://aoasg.org.au/)
 
 **Local Resources**
 
