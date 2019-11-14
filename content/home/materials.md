@@ -50,11 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
-Materials for Open Data, Materials and Code activity
+{{% staticref "files/reproduce_session5.zip" %}}**Download the files for the hands-on exercise**{{% /staticref %}}
 
-- [**Files.zip**](https://)
+The downloadable file, {{% staticref "files/reproduce_session5.zip" %}}reproduce_session5.zip{{% /staticref %}}, contains five files. These files will be used in a hands-on exercise where you create your own research compendium using these files, or your own if you wish. The zip file includes the following files that can be used if you do not have your own:
 
-{{% alert note %}}
-These materials are necessary for the activity that we will conduct during this session.
+* example-manuscript.docx - An example MS Word document manuscript
 
-{{% /alert %}}
+* example-manuscript.Rmd - An example RMarkdown file to generate an MS Word document
+
+* example-script.R - An example R script that imports data, munges it and creates a graph
+
+* pop_density_change.png - An example figure used in the example manuscript
+
+* population_density_per_square_km.csv - Population density data, Source: UN World Population Prospects through [www.gapminder.org](https://www.gapminder.org)
