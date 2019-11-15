@@ -57,6 +57,6 @@ The main presentation will be delivered by Associate Professor Emerson M. Del Po
 
 A panel discussion will include Dr. Francis Gacenga, A/Prof Adam H. Sparks, A/Prof Emerson M. Del Ponte and Ms Belinda Weaver ([Griffith University](https://www.griffith.edu.au)), [@cloudaus](https://www.twitter.com/cloudaus).
 
-We have created this website using these tools [blogdown](https://bookdown.org/yihui/blogdown/), [RStudio](https://rstudio.com/), [GitHub](https://www.github.com/) and [Netlify](https://www.netlify.com/).
+We have created this website using these tools: [blogdown](https://bookdown.org/yihui/blogdown/), [RStudio](https://rstudio.com/), [GitHub](https://www.github.com/) and [Netlify](https://www.netlify.com/).
 
 All of the code are available from Adam's GitHub, <https://github.com/adamhsparks/ReProduce_Open_Data_Materials_and_Code>.
