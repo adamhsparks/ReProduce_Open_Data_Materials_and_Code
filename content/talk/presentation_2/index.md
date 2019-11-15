@@ -1,11 +1,11 @@
 ---
 abstract: 
 address:
-  city: Brisbane
-  country: Australia
+  city: ""
+  country: ""
   postcode: ""
-  region: Qld
-  street: 
+  region: ""
+  street: ""
 all_day: false
 authors: []
 date: "2019-12-11T10:15:00Z"
