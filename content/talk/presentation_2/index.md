@@ -1,11 +1,11 @@
 ---
-abstract: 
+abstract: Dr Del Ponte will present his talk via video and join us via videoconference from Brazil.
 address:
-  city: ""
-  country: ""
+  city: Brisbane
+  country: Australia
   postcode: ""
-  region: ""
-  street: ""
+  region: Qld
+  street: 
 all_day: false
 authors: []
 date: "2019-12-11T10:15:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/edelponte
-location: Viçosa, Minas Gerais, Brazil
+location: Customs House, Brisbane, Qld, Australia
 math: true
 projects:
 - internal-project
