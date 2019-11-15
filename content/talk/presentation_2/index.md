@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/edelponte
-location: Viçosa, Brazil
+location: Viçosa, Minas Gerais, Brazil
 math: true
 projects:
 - internal-project

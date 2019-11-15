@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/FGacenga
-location: Source Themes HQ
+location: Customs House, Brisbane, Qld, Australia
 math: true
 projects:
 - internal-project
