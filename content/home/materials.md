@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{% alert note %}}{{% staticref "files/reproduce_session5.zip" %}}**Download the file for the hands-on exercise**{{% /staticref %}} {{% /alert %}}
+{{% alert note %}}{{% staticref "files/reproduce_session5.zip" %}}**Download the file for the hands-on activity**{{% /staticref %}} {{% /alert %}}
 
 In this hands-on activity we will go through setting up an [OSF](https://osf.io) account (if you do not already have one), upload materials to OSF, documenting them with metadata and create a very brief research compendium that describes the data set to upload to OSF to create a complete research compendium and repository for sharing.
 
