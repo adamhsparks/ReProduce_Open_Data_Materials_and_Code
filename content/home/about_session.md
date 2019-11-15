@@ -55,7 +55,7 @@ We will have presentations on [FAIR data (Findable, Accessible, Interoperable, R
 
 The main presentation will be delivered by Associate Professor Emerson M. Del Ponte, [@edelponte](https://www.twitter.com/edelponte/), from [Universidade Federal de Viçosa (UFV)](https://www.ufv.br) Brazil on using research compendia for reproducible research.
 
-The panel discussion will include Dr. Francis Gacenga, A/Prof Adam H. Sparks, A/Prof Emerson M. Del Ponte and Ms Belinda Weaver ([Griffith University](https://www.griffith.edu.au)), [@cloudaus](https://www.twitter.com/cloudaus).
+A panel discussion will include Dr. Francis Gacenga, A/Prof Adam H. Sparks, A/Prof Emerson M. Del Ponte and Ms Belinda Weaver ([Griffith University](https://www.griffith.edu.au)), [@cloudaus](https://www.twitter.com/cloudaus).
 
 We have created this website using these tools [blogdown](https://bookdown.org/yihui/blogdown/), [RStudio](https://rstudio.com/), [GitHub](https://www.github.com/) and [Netlify](https://www.netlify.com/).
 
