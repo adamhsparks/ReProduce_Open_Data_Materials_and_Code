@@ -18,41 +18,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/slides/</loc>
     <lastmod>2019-10-24T22:46:07+10:00</lastmod>
   </url>
@@ -73,6 +38,81 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ben-marwick/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carl-boettiger/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-nust/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wilson_et_al/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/greg-wilson/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nust_boettiger_and_marwick/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jennifer-bryan/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/justin-kitzes/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/karen-cranston/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lex-nederbragt/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tracy-k.-teal/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/activity/</loc>
     <lastmod>2019-10-24T22:46:07+10:00</lastmod>
   </url>
@@ -88,32 +128,75 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+    <loc>/authors/anton-nekrutenko/</loc>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+    <loc>/authors/benjamin-ragan-kelley/</loc>
   </url>
   
   <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+    <loc>/authors/brian-granger/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+    <loc>/authors/carol-willing/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/damian-avila/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/eivind-hovig/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/fernando-perez/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/geir-kjetil-sandve/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/james-taylor/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jason-grout/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jessica-hamrick/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-frederic/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jupyter-development-team/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/kluyver_et_al/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kyle-kelley/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/matthias-bussonnier/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-ivanov/</loc>
   </url>
   
   <url>
@@ -124,6 +207,22 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/safia-abdalla/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/sylvain-corlay/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/sandve_et_al/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-kluyver/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greg Wilson | Re:produce Session 5</title>
+    <link>/authors/greg-wilson/</link>
+      <atom:link href="/authors/greg-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Greg Wilson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019`</copyright><lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Greg Wilson</title>
+      <link>/authors/greg-wilson/</link>
+    </image>
+    
+    <item>
+      <title>Good enough practices in scientific computing</title>
+      <link>/publication/wilson_et_al/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wilson_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
