@@ -9,7 +9,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
@@ -39,12 +39,12 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
@@ -64,12 +64,12 @@
   
   <url>
     <loc>/publication/wilson_et_al/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/greg-wilson/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
@@ -79,37 +79,47 @@
   
   <url>
     <loc>/authors/jennifer-bryan/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/justin-kitzes/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/karen-cranston/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/lex-nederbragt/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-10-24T22:46:07+10:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/tracy-k.-teal/</loc>
-    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lincoln-mullen/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/marwick_boettiger_and_mullen/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -129,18 +139,22 @@
   
   <url>
     <loc>/authors/anton-nekrutenko/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/benjamin-ragan-kelley/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/brian-granger/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/carol-willing/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
@@ -149,54 +163,67 @@
   
   <url>
     <loc>/authors/damian-avila/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/eivind-hovig/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/fernando-perez/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/geir-kjetil-sandve/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/james-taylor/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jason-grout/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jessica-hamrick/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jonathan-frederic/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jupyter-development-team/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/kluyver_et_al/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/kyle-kelley/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/matthias-bussonnier/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/paul-ivanov/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
@@ -211,18 +238,22 @@
   
   <url>
     <loc>/authors/safia-abdalla/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/sylvain-corlay/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/sandve_et_al/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/thomas-kluyver/</loc>
+    <lastmod>2019-11-15T11:34:58+10:00</lastmod>
   </url>
   
 </urlset>

@@ -19,21 +19,21 @@
   weight = 20
 
 [[main]]
-  name = "Activity"
-  url = "#activity"
-  weight = 30
-
-[[main]]
-  name = "Materials"
+  name = "Hands-On"
   url = "#materials"
-  weight = 40
+  weight = 25
 
 [[main]]
   name = "Resources"
   url = "#resources"
-  weight = 50
+  weight = 30
+
+[[main]]
+  name = "Further Reading"
+  url = "#featured"
+  weight = 35
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 40

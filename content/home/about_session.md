@@ -50,7 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
-In this session [@fgacenga](https://github.com/fgacenga) and [@adamhsparks](https://github.com/adamhsparks) will lead you through how to make your research data, materials and code open. We will have presentations on [FAIR data (Findable, Accessible, Interoperable, Reusable)](https://www.ands.org.au/working-with-data/fairdata), using tools such as [Jupyter notebooks](https://jupyter.org/) and [R Markdown](https://rmarkdown.rstudio.com/) for organising your materials and [GitHub](https://www.github.com/), [GitLab](https://www.gitlab.com), [Bitbucket](https://bitbucket.org/product), [Zenodo](https://www.zenodo.org/) and [OSF](https://osf.io/) for sharing them openly.
+In this session Dr Francis Gacenga (USQ), [@FGacenga](https://twitter.com/FGacenga), and Associate Professor Adam H. Sparks (USQ), [@adamhsparks](https://www.twitter.com/adamhsparks), will lead you through how to make your research data, materials and code open.
+We will have presentations on [FAIR data (Findable, Accessible, Interoperable, Reusable)](https://www.ands.org.au/working-with-data/fairdata), using tools such as [Jupyter notebooks](https://jupyter.org/) and [R Markdown](https://rmarkdown.rstudio.com/) for organising your materials and [GitHub](https://www.github.com/), [GitLab](https://www.gitlab.com), [Bitbucket](https://bitbucket.org/product), [Figshare](https://www.figshare.com/), [Zenodo](https://www.zenodo.org/), [OSF](https://osf.io/) and others for sharing them openly.
+
+The main presentation will be delivered by Associate Professor Emerson M. Del Ponte, [@edelponte](https://www.twitter.com/edelponte/), from Universidade Federal de Viçosa (UFV) Brazil on using research compendia for reproducible research.
+
+The panel discussion will include Dr. Francis Gacenga, A/Prof Adam H. Sparks, A/Prof Emerson M. Del Ponte and Ms Belinda Weaver (Griffith University), [@cloudaus](https://www.twitter.com/cloudaus).
 
 We have created this website using these tools [blogdown](https://bookdown.org/yihui/blogdown/), [RStudio](https://rstudio.com/), [GitHub](https://www.github.com/) and [Netlify](https://www.netlify.com/).
 

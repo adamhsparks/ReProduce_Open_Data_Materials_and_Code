@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 85  # Order that this section will appear.
 
-title = "Materials"
+title = "Hands-On Activity"
 subtitle = ""
 
 [design]
@@ -50,9 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% staticref "files/reproduce_session5.zip" %}}**Download the files for the hands-on exercise**{{% /staticref %}}
+{{% staticref "files/reproduce_session5.zip" %}}**Download the file for the hands-on exercise**{{% /staticref %}}
 
-The downloadable file, {{% staticref "files/reproduce_session5.zip" %}}reproduce_session5.zip{{% /staticref %}}, contains five files. These files will be used in a hands-on exercise where you create your own research compendium using these files, or your own if you wish. The zip file includes the following files that can be used if you do not have your own:
+In this hands-on activity we will go through setting up an [OSF](https://osf.io) account (if you do not already have one), upload materials to OSF, documenting them with metadata and create a very brief research compendium that describes the data set to upload to OSF to create a complete research compendium and repository for sharing.
+
+The downloadable file, {{% staticref "files/reproduce_session5.zip" %}}**reproduce_session5.zip**{{% /staticref %}}, contains five files.
+These files will be used in a hands-on exercise where you create your own research compendium using these files, or your own files if you wish.
+The downloadable zip file includes the following files that can be used if you do not have your own:
 
 * example-manuscript.docx - An example MS Word document manuscript
 

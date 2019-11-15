@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lincoln Mullen | Re:produce Session 5</title>
+    <link>/authors/lincoln-mullen/</link>
+      <atom:link href="/authors/lincoln-mullen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lincoln Mullen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019`</copyright><lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lincoln Mullen</title>
+      <link>/authors/lincoln-mullen/</link>
+    </image>
+    
+    <item>
+      <title>Packaging Data Analytical Work Reproducibly Using R (and Friends)</title>
+      <link>/publication/marwick_boettiger_and_mullen/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/marwick_boettiger_and_mullen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

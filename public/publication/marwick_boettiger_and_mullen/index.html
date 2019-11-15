@@ -24,10 +24,10 @@
   
     
   
-  <meta name="description" content="&hellip;">
+  <meta name="description" content="Computers are a central tool in the research process, enabling complex and large-scale data analysis. As computer-based research has increased in complexity, so have the challenges of ensuring that this research is reproducible. To address this challenge, we review the concept of the research compendium as a solution for providing a standard and easily recognizable way for organizing the digital materials of a research project to enable other researchers to inspect, reproduce, and extend the research. We investigate how the structure and tooling of software packages of the R programming language are being used to produce research compendia in a variety of disciplines. We also describe how software engineering tools and services are being used by researchers to streamline working with research compendia. Using real-world examples, we show how researchers can improve the reproducibility of their work using research compendia based on R packages and related tools.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/terms/">
+  <link rel="alternate" hreflang="en-us" href="/publication/marwick_boettiger_and_mullen/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/terms/">
+  <link rel="canonical" href="/publication/marwick_boettiger_and_mullen/">
 
   
   
@@ -109,20 +109,63 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Re:produce Session 5">
-  <meta property="og:url" content="/terms/">
-  <meta property="og:title" content="Terms | Re:produce Session 5">
-  <meta property="og:description" content="&hellip;"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/marwick_boettiger_and_mullen/">
+  <meta property="og:title" content="Packaging Data Analytical Work Reproducibly Using R (and Friends) | Re:produce Session 5">
+  <meta property="og:description" content="Computers are a central tool in the research process, enabling complex and large-scale data analysis. As computer-based research has increased in complexity, so have the challenges of ensuring that this research is reproducible. To address this challenge, we review the concept of the research compendium as a solution for providing a standard and easily recognizable way for organizing the digital materials of a research project to enable other researchers to inspect, reproduce, and extend the research. We investigate how the structure and tooling of software packages of the R programming language are being used to produce research compendia in a variety of disciplines. We also describe how software engineering tools and services are being used by researchers to streamline working with research compendia. Using real-world examples, we show how researchers can improve the reproducibility of their work using research compendia based on R packages and related tools."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2018-06-28T00:00:00&#43;01:00">
+      <meta property="article:published_time" content="2018-04-24T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-10-24T22:46:07&#43;10:00">
+    <meta property="article:modified_time" content="2018-04-24T00:00:00&#43;00:00">
   
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/marwick_boettiger_and_mullen/"
+  },
+  "headline": "Packaging Data Analytical Work Reproducibly Using R (and Friends)",
+  
+  "datePublished": "2018-04-24T00:00:00Z",
+  "dateModified": "2018-04-24T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ben Marwick"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Re:produce Session 5",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "Computers are a central tool in the research process, enabling complex and large-scale data analysis. As computer-based research has increased in complexity, so have the challenges of ensuring that this research is reproducible. To address this challenge, we review the concept of the research compendium as a solution for providing a standard and easily recognizable way for organizing the digital materials of a research project to enable other researchers to inspect, reproduce, and extend the research. We investigate how the structure and tooling of software packages of the R programming language are being used to produce research compendia in a variety of disciplines. We also describe how software engineering tools and services are being used by researchers to streamline working with research compendia. Using real-world examples, we show how researchers can improve the reproducibility of their work using research compendia based on R packages and related tools."
+}
+</script>
+
+  
 
   
 
@@ -136,7 +179,7 @@
 
 
 
-  <title>Terms | Re:produce Session 5</title>
+  <title>Packaging Data Analytical Work Reproducibly Using R (and Friends) | Re:produce Session 5</title>
 
 </head>
 
@@ -422,7 +465,7 @@
 </nav>
 
 
-  <article class="article">
+  <div class="pub">
 
   
 
@@ -443,7 +486,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Terms</h1>
+  <h1>Packaging Data Analytical Work Reproducibly Using R (and Friends)</h1>
 
   
 
@@ -455,7 +498,28 @@
 
   
   
+  
+  
+  <div>
+    
 
+
+
+  
+  <span><a href="/authors/ben-marwick/">Ben Marwick</a></span>, <span><a href="/authors/carl-boettiger/">Carl Boettiger</a></span>, <span><a href="/authors/lincoln-mullen/">Lincoln Mullen</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2018-04-24
+  </span>
   
 
   
@@ -483,7 +547,57 @@
 
 
 
+  
 
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?needAccess=true#aHR0cHM6Ly9hbXN0YXQudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8wMDAzMTMwNS4yMDE3LjEzNzU5ODY/bmVlZEFjY2Vzcz10cnVlQEBAMA==" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/marwick_boettiger_and_mullen/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1080/00031305.2017.1375986" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
 
 
   
@@ -493,10 +607,49 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>&hellip;</p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Computers are a central tool in the research process, enabling complex and large-scale data analysis. As computer-based research has increased in complexity, so have the challenges of ensuring that this research is reproducible. To address this challenge, we review the concept of the research compendium as a solution for providing a standard and easily recognizable way for organizing the digital materials of a research project to enable other researchers to inspect, reproduce, and extend the research. We investigate how the structure and tooling of software packages of the R programming language are being used to produce research compendia in a variety of disciplines. We also describe how software engineering tools and services are being used by researchers to streamline working with research compendia. Using real-world examples, we show how researchers can improve the reproducibility of their work using research compendia based on R packages and related tools.</p>
+    
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>The American Statistician 72(1)</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
@@ -504,6 +657,97 @@
 
 
 
+<div class="article-tags">
+  
+  <a class="badge badge-light" href=""></a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/marwick_boettiger_and_mullen/&amp;text=Packaging%20Data%20Analytical%20Work%20Reproducibly%20Using%20R%20%28and%20Friends%29" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/marwick_boettiger_and_mullen/&amp;t=Packaging%20Data%20Analytical%20Work%20Reproducibly%20Using%20R%20%28and%20Friends%29" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Packaging%20Data%20Analytical%20Work%20Reproducibly%20Using%20R%20%28and%20Friends%29&amp;body=/publication/marwick_boettiger_and_mullen/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/marwick_boettiger_and_mullen/&amp;title=Packaging%20Data%20Analytical%20Work%20Reproducibly%20Using%20R%20%28and%20Friends%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Packaging%20Data%20Analytical%20Work%20Reproducibly%20Using%20R%20%28and%20Friends%29%20/publication/marwick_boettiger_and_mullen/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/marwick_boettiger_and_mullen/&amp;title=Packaging%20Data%20Analytical%20Work%20Reproducibly%20Using%20R%20%28and%20Friends%29" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
 
 
 
@@ -516,12 +760,65 @@
 
 
 
+  
+  
+    
+  
+  
 
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/ben-marwick/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/wilson_et_al/">Good enough practices in scientific computing</a></li>
+      
+      <li><a href="/publication/nust_boettiger_and_marwick/">How to read a research compendium</a></li>
+      
+      <li><a href="/publication/kluyver_et_al/">Jupyter Notebooks – a publishing format for reproducible computational workflows</a></li>
+      
+      <li><a href="/publication/sandve_et_al/">Ten Simple Rules for Reproducible Computational Research</a></li>
+      
+    </ul>
+  </div>
+  
 
 
 
   </div>
-</article>
+</div>
 
       
 
