@@ -52,7 +52,7 @@ subtitle = ""
 
 This workshop introduces how you can make your research data, materials and code open and available. We intend to introduce the concept of a research compendium as a means to ensure that these these goals are met and why you would want to share your materials openly. To help familiriase participants, information on [FAIR data (Findable, Accessible, Interoperable, Reusable)](https://www.ands.org.au/working-with-data/fairdata), using tools such as [Jupyter notebooks](https://jupyter.org/) and [R Markdown](https://rmarkdown.rstudio.com/) for organising your materials and [GitHub](https://www.github.com/), [GitLab](https://www.gitlab.com), [Bitbucket](https://bitbucket.org/product), [Figshare](https://www.figshare.com/), [Zenodo](https://www.zenodo.org/), [OSF](https://osf.io/) and others for sharing them openly will be presented.
 
-The main presentation will be delivered by Associate Professor Emerson M. Del Ponte, [@edelponte](https://www.twitter.com/edelponte/), from [Universidade Federal de Viçosa (UFV)](https://www.ufv.br) Brazil on his experiences using research compendia for reproducible research.
+The main presentation will be delivered by Associate Professor Emerson M. Del Ponte, [@edelponte](https://www.twitter.com/edelponte/), from [Universidade Federal de Viçosa (UFV)](https://www.ufv.br) Brazil on his experiences using research compendia and pre-prints for making data, materials and code open and available.
 
 A panel discussion will include Dr. Francis Gacenga, A/Prof Adam H. Sparks, A/Prof Emerson M. Del Ponte and Ms Belinda Weaver ([Griffith University](https://www.griffith.edu.au)), [@cloudaus](https://www.twitter.com/cloudaus).
 
