@@ -62,4 +62,4 @@ By the end of this workshop users will have learned what tools are available to 
 
 We have created this website using these tools: [blogdown](https://bookdown.org/yihui/blogdown/), [RStudio](https://rstudio.com/), [GitHub](https://www.github.com/) and [Netlify](https://www.netlify.com/) and released it under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-All of the code are available from Adam's GitHub, <https://github.com/adamhsparks/ReProduce_Open_Data_Materials_and_Code>.
+All of the code and materials are available from GitHub, <https://github.com/adamhsparks/ReProduce_Open_Data_Materials_and_Code>.

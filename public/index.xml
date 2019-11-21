@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Re:produce Workshop on Open Data, Materials and Code</title>
+    <title>Open Data, Materials and Code</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Re:produce Workshop on Open Data, Materials and Code</description>
+    <description>Open Data, Materials and Code</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019` under a Creative Commons Attribution-NonCommercial 4.0 International License</copyright><lastBuildDate>Wed, 11 Dec 2019 10:15:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Re:produce Workshop on Open Data, Materials and Code</title>
+      <title>Open Data, Materials and Code</title>
       <link>/</link>
     </image>
     
