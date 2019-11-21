@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Open Data, Materials and Code</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://re-produce-opendatamaterialscode.netlify.com/publication_types/</link>
+      <atom:link href="https://re-produce-opendatamaterialscode.netlify.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019` under a Creative Commons Attribution-NonCommercial 4.0 International License</copyright><lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://re-produce-opendatamaterialscode.netlify.com/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <link>https://re-produce-opendatamaterialscode.netlify.com/publication_types/</link>
     </image>
     
     <item>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://re-produce-opendatamaterialscode.netlify.com/publication_types/2/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication_types/2/</guid>
+      <guid>https://re-produce-opendatamaterialscode.netlify.com/publication_types/2/</guid>
       <description></description>
     </item>
     

@@ -27,9 +27,9 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example of using R and R Markdown to create research compendia.
+summary: Dr Del Ponte will share how he uses R to organize his data and code to be open.
 tags: []
-title: Emerson's Talk Title Here
+title: Organize, document and share research data and codes using R
 url_code: ""
 url_pdf: ""
 url_slides: ""

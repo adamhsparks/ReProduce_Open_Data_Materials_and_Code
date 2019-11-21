@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carl Boettiger | Open Data, Materials and Code</title>
-    <link>/authors/carl-boettiger/</link>
-      <atom:link href="/authors/carl-boettiger/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://re-produce-opendatamaterialscode.netlify.com/authors/carl-boettiger/</link>
+      <atom:link href="https://re-produce-opendatamaterialscode.netlify.com/authors/carl-boettiger/index.xml" rel="self" type="application/rss+xml" />
     <description>Carl Boettiger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019` under a Creative Commons Attribution-NonCommercial 4.0 International License</copyright><lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://re-produce-opendatamaterialscode.netlify.com/img/icon-192.png</url>
       <title>Carl Boettiger</title>
-      <link>/authors/carl-boettiger/</link>
+      <link>https://re-produce-opendatamaterialscode.netlify.com/authors/carl-boettiger/</link>
     </image>
     
     <item>
       <title>How to read a research compendium</title>
-      <link>/publication/nust_boettiger_and_marwick/</link>
+      <link>https://re-produce-opendatamaterialscode.netlify.com/publication/nust_boettiger_and_marwick/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/nust_boettiger_and_marwick/</guid>
+      <guid>https://re-produce-opendatamaterialscode.netlify.com/publication/nust_boettiger_and_marwick/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Packaging Data Analytical Work Reproducibly Using R (and Friends)</title>
-      <link>/publication/marwick_boettiger_and_mullen/</link>
+      <link>https://re-produce-opendatamaterialscode.netlify.com/publication/marwick_boettiger_and_mullen/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/marwick_boettiger_and_mullen/</guid>
+      <guid>https://re-produce-opendatamaterialscode.netlify.com/publication/marwick_boettiger_and_mullen/</guid>
       <description></description>
     </item>
     

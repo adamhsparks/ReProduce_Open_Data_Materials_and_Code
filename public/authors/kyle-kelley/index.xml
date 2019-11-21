@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyle Kelley | Open Data, Materials and Code</title>
-    <link>/authors/kyle-kelley/</link>
-      <atom:link href="/authors/kyle-kelley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://re-produce-opendatamaterialscode.netlify.com/authors/kyle-kelley/</link>
+      <atom:link href="https://re-produce-opendatamaterialscode.netlify.com/authors/kyle-kelley/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyle Kelley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019` under a Creative Commons Attribution-NonCommercial 4.0 International License</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://re-produce-opendatamaterialscode.netlify.com/img/icon-192.png</url>
       <title>Kyle Kelley</title>
-      <link>/authors/kyle-kelley/</link>
+      <link>https://re-produce-opendatamaterialscode.netlify.com/authors/kyle-kelley/</link>
     </image>
     
     <item>
       <title>Jupyter Notebooks – a publishing format for reproducible computational workflows</title>
-      <link>/publication/kluyver_et_al/</link>
+      <link>https://re-produce-opendatamaterialscode.netlify.com/publication/kluyver_et_al/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/kluyver_et_al/</guid>
+      <guid>https://re-produce-opendatamaterialscode.netlify.com/publication/kluyver_et_al/</guid>
       <description></description>
     </item>
     
