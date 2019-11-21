@@ -60,6 +60,6 @@ Attendees will then have the opportunity to create a research compendium using O
 
 By the end of this workshop users will have learned what tools are available to make their research data, materials and code open and available. To aid in this, we have put together a website with more information from the workshop with further suggested reading on the topic of research compendia and other resources that can be useful for participants to refer to, https://re-produce-opendatamaterialscode.netlify.com/.
 
-We have created this website using these tools: [blogdown](https://bookdown.org/yihui/blogdown/), [RStudio](https://rstudio.com/), [GitHub](https://www.github.com/) and [Netlify](https://www.netlify.com/) and released it under a Creative Commons Attribution-NonCommercial 4.0 International License.
+We have created this website using these tools: [blogdown](https://bookdown.org/yihui/blogdown/), [RStudio](https://rstudio.com/), [GitHub](https://www.github.com/) and [Netlify](https://www.netlify.com/) and released it under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 All of the code are available from Adam's GitHub, <https://github.com/adamhsparks/ReProduce_Open_Data_Materials_and_Code>.
