@@ -69,3 +69,5 @@ Australia wide, local and university resources to help you with Open Data, Open 
 
 - [**USQ eResearch**](https://www.usq.edu.au/current-students/academic/higher-degree-by-research-students/conducting-research/eresearch)
 
+- [**QCIF - Queensland University Hacky Hours**](https://www.qcif.edu.au/index.php/events/hacky-hour)
+
