@@ -82,4 +82,5 @@ Australia wide, local and university resources to help you with Open Data, Open 
 **Research Compendia Exemplars**
 
 - [**Del Ponte, E. M. Research compendium**](https://emdelponte.github.io/paper-estimate-app/)
+- [**Marwick, B. Research compendium**](https://figshare.com/articles/1989_excavation_report_Madjebebe/1297059)
 
