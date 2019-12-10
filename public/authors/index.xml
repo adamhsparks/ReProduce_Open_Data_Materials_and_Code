@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Open Data, Materials and Code</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019` under a Creative Commons Attribution-NonCommercial 4.0 International License</copyright><lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Ben Marwick</title>
+      <link>/authors/ben-marwick/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ben-marwick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carl Boettiger</title>
+      <link>/authors/carl-boettiger/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/carl-boettiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Nüst</title>
+      <link>/authors/daniel-nust/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-nust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greg Wilson</title>
+      <link>/authors/greg-wilson/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/greg-wilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Bryan</title>
+      <link>/authors/jennifer-bryan/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jennifer-bryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Kitzes</title>
+      <link>/authors/justin-kitzes/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/justin-kitzes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karen Cranston</title>
+      <link>/authors/karen-cranston/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/karen-cranston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lex Nederbragt</title>
+      <link>/authors/lex-nederbragt/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lex-nederbragt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracy K. Teal</title>
+      <link>/authors/tracy-k.-teal/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tracy-k.-teal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lincoln Mullen</title>
+      <link>/authors/lincoln-mullen/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lincoln-mullen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anton Nekrutenko</title>
+      <link>/authors/anton-nekrutenko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/anton-nekrutenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Ragan-Kelley</title>
+      <link>/authors/benjamin-ragan-kelley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-ragan-kelley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Granger</title>
+      <link>/authors/brian-granger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/brian-granger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol Willing</title>
+      <link>/authors/carol-willing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/carol-willing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damián Avila</title>
+      <link>/authors/damian-avila/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/damian-avila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eivind Hovig</title>
+      <link>/authors/eivind-hovig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/eivind-hovig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Pérez</title>
+      <link>/authors/fernando-perez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/fernando-perez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geir Kjetil Sandve</title>
+      <link>/authors/geir-kjetil-sandve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/geir-kjetil-sandve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Taylor</title>
+      <link>/authors/james-taylor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/james-taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Grout</title>
+      <link>/authors/jason-grout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jason-grout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Hamrick</title>
+      <link>/authors/jessica-hamrick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jessica-hamrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Frederic</title>
+      <link>/authors/jonathan-frederic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jonathan-frederic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Development Team</title>
+      <link>/authors/jupyter-development-team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jupyter-development-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Kelley</title>
+      <link>/authors/kyle-kelley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/kyle-kelley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Bussonnier</title>
+      <link>/authors/matthias-bussonnier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/matthias-bussonnier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Ivanov</title>
+      <link>/authors/paul-ivanov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-ivanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safia Abdalla</title>
+      <link>/authors/safia-abdalla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/safia-abdalla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sylvain Corlay</title>
+      <link>/authors/sylvain-corlay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sylvain-corlay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Kluyver</title>
+      <link>/authors/thomas-kluyver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-kluyver/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

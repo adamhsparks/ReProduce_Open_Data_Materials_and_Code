@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Data, Materials and Code</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Data, Materials and Code</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© University of Southern Queensland `2019` under a Creative Commons Attribution-NonCommercial 4.0 International License</copyright><lastBuildDate>Wed, 11 Dec 2019 10:15:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Open Data, Materials and Code</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Organize, document and share research data and codes using R</title>
+      <link>/talk/presentation_2/</link>
+      <pubDate>Wed, 11 Dec 2019 10:15:00 +0000</pubDate>
+      <guid>/talk/presentation_2/</guid>
+      <description>&lt;p&gt;Emerson M. Del Ponte is Associate Professor of Plant Pathology at the Universidade Federal de Viçosa (UFV), Brazil. Dr. Del Ponte has taken a leading role in teaching (Epidemiology and data science) and mentoring undergraduate and graduate students and in building an internationally-recognized research program in Plant Disease Epidemiology. From international experiences gained early in his career to continuing visits and attendance of scientific meetings and offering workshops worldwide, Dr. Del Ponte has been able to build and expand an international collaborative network in the field. His program has made important contributions to increase understanding of plant diseases of major importance to agriculture of Brazil and worldwide as well as to develop methods for enhancing epidemiological research and applications. Del Ponte is an experience reviewer and Senior Editor, currently serving as Editor in Chief of Tropical Plant Pathology. He chairs an internationally recognized graduate program in Plant Pathology of UFV. Recently, he has co-founded Open Plant Pathology, a global community a community of multidisciplinary scientists who support all forms of Open Science practices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data, Materials and Code Introduction</title>
+      <link>/talk/presentation_1/</link>
+      <pubDate>Wed, 11 Dec 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/presentation_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Good enough practices in scientific computing</title>
+      <link>/publication/wilson_et_al/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wilson_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to read a research compendium</title>
+      <link>/publication/nust_boettiger_and_marwick/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nust_boettiger_and_marwick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packaging Data Analytical Work Reproducibly Using R (and Friends)</title>
+      <link>/publication/marwick_boettiger_and_mullen/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/marwick_boettiger_and_mullen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebooks – a publishing format for reproducible computational workflows</title>
+      <link>/publication/kluyver_et_al/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/kluyver_et_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ten Simple Rules for Reproducible Computational Research</title>
+      <link>/publication/sandve_et_al/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/sandve_et_al/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
