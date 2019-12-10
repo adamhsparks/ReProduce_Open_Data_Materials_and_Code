@@ -1,5 +1,5 @@
 ---
-abstract: Associate Professor Sparks will lead a hands-on session to work through creating an OSF project to share your codes and data.
+abstract: Associate Professor Sparks will lead a hands-on session to work through creating an OSF project to share your codes and data
   city: Brisbane
   country: Australia
   postcode: 4000
