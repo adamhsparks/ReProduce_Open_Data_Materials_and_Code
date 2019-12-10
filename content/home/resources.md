@@ -65,9 +65,17 @@ Australia wide, local and university resources to help you with Open Data, Open 
 
 **University Resources**
 
+- [**UQ Research Computing Centre**](https://rcc.uq.edu.au)
+
+- [**USQ eResearch**](https://www.usq.edu.au/eresearch)
+
 - [**QUT Visualisation and eResearch**](https://research.qut.edu.au/viser/)
 
-- [**USQ eResearch**](https://www.usq.edu.au/current-students/academic/higher-degree-by-research-students/conducting-research/eresearch)
+- [**Griffith University eResearch Services**](https://www.griffith.edu.au/eresearch-services)
+
+- [**James Cook University eResearch Centre**](https://www.jcu.edu.au/eresearch)
+
+- [**Central Queensland University eResearch**](https://www.cqu.edu.au/eresearch/home)
 
 - [**QCIF - Queensland University Hacky Hours**](https://www.qcif.edu.au/index.php/events/hacky-hour)
 
