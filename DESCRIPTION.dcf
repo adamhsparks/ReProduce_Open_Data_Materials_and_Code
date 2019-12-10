@@ -1,0 +1,13 @@
+Package: Re:produce Session 5
+Title: 
+Version: 0.0.0.9000
+Authors@R: c(person("Francis Gacenga",
+                    role = c("aut", "cre")),
+             person("Adam H", "Sparks",
+                    email = "adamhsparks@gmail.com",
+                    role = "aut"))
+Description: The source code for the Session 5 of Re:produce workshop
+Depends: R (>= 3.3.2),
+    blogdown
+License: CC-BY-4.0
+URL: https://re-produce-opendatamaterialscode.netlify.com/
