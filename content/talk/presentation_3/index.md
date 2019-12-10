@@ -8,8 +8,8 @@ address:
   street: 399 Queen St
 all_day: false
 authors: []
-date: "2019-12-11T10:45:00Z"
-date_end: "2019-12-11T11:00:00Z"
+date: "2019-12-11T10:10:00Z"
+date_end: "2019-12-11T10:30:00Z"
 event: Re:produce Workshop
 event_url: https://aas.eventsair.com/reproduce-workshop/
 featured: true
