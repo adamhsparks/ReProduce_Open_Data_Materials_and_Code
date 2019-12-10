@@ -18,7 +18,7 @@ before_install:
   - mkdir public
 
 script:
-  - Rscript -e 'blogdown::install_hugo(version = "0.55.6")'
+  - Rscript -e 'blogdown::install_hugo()'
   - Rscript -e 'blogdown::build_site(method = "html")'
 
 after_success:
