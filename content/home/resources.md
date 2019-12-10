@@ -63,6 +63,8 @@ Australia wide, local and university resources to help you with Open Data, Open 
 
 - [**MORN** Melbourne Open Research Network](https://morn.netlify.com)
 
+- [**Software Carpentry Workshops** Teach basic skills for reproducible research computing](https://software-carpentry.org)
+
 **University Resources**
 
 - [**UQ Research Computing Centre**](https://rcc.uq.edu.au)
