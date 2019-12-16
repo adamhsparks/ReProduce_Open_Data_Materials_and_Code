@@ -36,4 +36,6 @@ url_slides: ""
 url_video: ""
 ---
 
+**Unfortunately due to technical issues and time constraints we did not get to cover the hands-on exercise during Re:produce.**
+
 Associate Professor Adam Sparks has over 20 yrs of agronomy & pathology experience working in the US, Philippines & Australia. He leads University of Southern Queensland - Australia Summer crop pathology team & his work currently focuses on plant disease modelling & integrated disease management in sorghum, mungbean & rice. Along with Dr. Emerson Del Ponte from the University of Viçosa, Brazil, in 2018 he co-founded [Open Plant Pathology](https://www.openplantpathology.org/), a community of plant pathology, plant disease epidemiology, pathogen population biology, microbial ecology and genomics researchers that supports the several forms of open science practices in plant pathology.
