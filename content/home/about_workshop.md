@@ -56,7 +56,7 @@ The main presentation will be delivered by Associate Professor Emerson M. Del Po
 
 A panel discussion will include Dr. Francis Gacenga, A/Prof Adam H. Sparks, A/Prof Emerson M. Del Ponte and Ms Belinda Weaver ([Griffith University](https://www.griffith.edu.au)), [@cloudaus](https://www.twitter.com/cloudaus).
 
-Attendees will then have the opportunity to create a research compendium using OSF](https://osf.io/) using either their own materials, or a set of materials provided by us for this exercise.
+Attendees will then have the opportunity to create a research compendium using [OSF](https://osf.io/) using either their own materials, or a set of materials provided by us for this exercise.
 
 By the end of this workshop users will have learned what tools are available to make their research data, materials and code open and available. To aid in this, we have put together a website with more information from the workshop with further suggested reading on the topic of research compendia and other resources that can be useful for participants to refer to, https://re-produce-opendatamaterialscode.netlify.com/.
 
